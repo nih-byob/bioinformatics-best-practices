@@ -21,7 +21,7 @@ etc.) is welcome to share their own experiences.
 If you would like to share your own suggestions relating to bioinformatics research, you
 can use the template hosted on the Github wiki at:
 
-- [https://github.com/nih-byob/presentations/wiki/Bioinformatics-Best-Practices-Template](https://github.com/nih-byob/presentations/wiki/Bioinformatics-Best-Practices-Template)
+- [https://github.com/nih-byob/bioinformatics-best-practices/wiki/Bioinformatics-Best-Practices-Template](https://github.com/nih-byob/bioinformatics-best-practices/wiki/Bioinformatics-Best-Practices-Template)
 
 Since everyone's experience is likely to differ, feel free to add/remove sections from
 the template, or not use it all.
