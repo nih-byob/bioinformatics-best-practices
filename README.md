@@ -31,4 +31,9 @@ repo, add your suggestions markdown document (use the filename `<first_name>_<la
 and create a [pull request](https://github.com/nih-byob/bioinformatics-best-practices/pulls)
 with the changes.
 
+## See Also
+
+- [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
+- [Frontiers in Genetics - On best practices in the development of bioinformatics software (2014)](https://www.frontiersin.org/articles/10.3389/fgene.2014.00199/full)
+- [Biostars: Advice For Newcomers To The Bioinformatics Field](https://www.biostars.org/p/75925/)
 
